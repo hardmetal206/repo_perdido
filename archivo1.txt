@@ -1,1 +1,2 @@
 un commit
+//XXX SCS Mi primer comentario para un conflicto
